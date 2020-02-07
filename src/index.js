@@ -1,1 +1,1 @@
-import './stylus/main.styl';
+import './stylus/main.styl'
